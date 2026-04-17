@@ -92,7 +92,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
-  padding-bottom: 60px;
+  padding-bottom: 35px;
 }
 
 .hero-left {
