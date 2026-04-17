@@ -354,10 +354,6 @@
     padding: 80px 20px;
   }
 
-  .filming-video {
-    display: none;
-  }
-
   .filming {
     background-image: url("../../assets/images/yt.png");
     background-size: cover;
